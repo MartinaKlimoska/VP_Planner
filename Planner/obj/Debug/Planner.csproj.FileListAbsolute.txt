@@ -1,0 +1,15 @@
+C:\Users\klimo\source\repos\Planner\Planner\bin\Debug\Planner.exe.config
+C:\Users\klimo\source\repos\Planner\Planner\bin\Debug\Planner.exe
+C:\Users\klimo\source\repos\Planner\Planner\bin\Debug\Planner.pdb
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.csprojAssemblyReference.cache
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.Form1.resources
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.cache
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.csproj.CoreCompileInputs.cache
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.exe
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.pdb
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.NewEvent.resources
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.EventControl.resources
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.TaskControl.resources
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.NewTask.resources
+C:\Users\klimo\source\repos\Planner\Planner\obj\Debug\Planner.About.resources
